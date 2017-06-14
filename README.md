@@ -15,3 +15,9 @@ To run the program:
 * If `-n ΝΑΜΕ` and `-f FIGURE` given the program save the images with name `NAME_x.FIFURE`. For example `-n cube -f png` the images saved like **cube_0.png, cube_1.png** etc.
 
 This work was given from [Panos Louridas](https://github.com/louridas) in course **Algorithms and Data Structures** (*Department of Forest Science and Technology*, Athens University of Economics and Business).
+
+For example we see **six** maximum independent subset of a graph (`cube_graph.txt`): 
+
+<img src="cube_0.png" width="250"><img src="cube_1.png" width="250"><img src="cube_2.png" width="250">
+
+<img src="cube_3.png" width="250"><img src="cube_4.png" width="250"><img src="cube_5.png" width="250">
