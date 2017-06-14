@@ -1,4 +1,4 @@
-# Findings on maximum independent subset or Far Away and Fave
+# Findings on maximum independent subset or "Far Away and Fave"
 
 This is a work which is about **Findings on maximum independent subset**. Is written in **Python 3.X** and is based on the article 
 
