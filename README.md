@@ -9,7 +9,7 @@ To run the program:
 `mis.py [-h] [-d] [-n NAME] [-f FIGURE] input`
 
 * The parameter `input` is the name of .txt file which has the graph. The file haw the graph in networkx adjacency list format.
-* If `–d `parameter given will appear on the computer screen:
+* If `–d` parameter given will appear on the computer screen:
   * Image with the graph
   * Images with maximum independent subset
 * If `-n ΝΑΜΕ` and `-f FIGURE` given the program save the images with name `NAME_x.FIFURE`. For example `-n cube -f png` the images saved like **cube_0.png, cube_1.png** etc.
